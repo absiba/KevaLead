@@ -21,6 +21,7 @@ li p {
 ul {
   list-style-type: none;
   width: 500px;
+ margin:0px;
 }
 
 li img {
