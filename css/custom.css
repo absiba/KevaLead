@@ -12,33 +12,4 @@ li p {
  font-size:12px;
  line-height:1.5px;
 }
-
  
-/*div {
-  margin: 5px;
-}*/
- 
-ul {
-  list-style-type: none;
-  width: 500px;
- margin:0px;
- padding:0px;
-}
-
-li img {
-  float: left;
-  margin: 0 15px 0 0;
-}
- 
-
- 
-li {
-  padding: 10px;
-  overflow: auto;
- display:block;
-}
- 
-li:hover {
-  background: #eee;
-  cursor: pointer;
-}
