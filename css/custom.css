@@ -35,6 +35,7 @@ li img {
 li {
   padding: 10px;
   overflow: auto;
+ display:block;
 }
  
 li:hover {
