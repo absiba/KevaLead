@@ -13,14 +13,9 @@ li p {
  line-height:1.5px;
 }
 
-p {
- font-family: 'Vollkorn', Georgia, Times, serif;
- font-size: 16px;
- line-height: 25px;
-}
  
 div {
-  margin: 20px;
+  margin: 5px;
 }
  
 ul {
